@@ -1,0 +1,21 @@
+header{
+    background-color: green;
+}
+form{
+    justify-content: center;
+    margin: 3%;
+}
+.container{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+button{
+    background-color: white;
+    width: 20%;
+    height: 70%;
+    border: none;
+}
+.img-fluid{
+    height: 30vh;
+}
